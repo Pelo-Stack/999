@@ -1,5 +1,5 @@
-# ridhobot
-BOT WHATSAPP HP RIDHO SETIAWAN
+# 999
+BOT WHATSAPP HP Alip
 
 ### Alat dan Bahan
 Siapin alat dan bahannya.
@@ -17,8 +17,8 @@ Sebelum lu jalanin sc nya install dulu lah.
 ```bash
 > kalo lu belum punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
-> git clone https://github.com/ridho03/waridhobot.git
-> cd botst4rz
+> git clone https://github.com/Pelo-Stack/999.git
+> cd 999
 > bash install.sh
 > node index.js
 > Tinggal scan qr dah
@@ -26,7 +26,7 @@ Sebelum lu jalanin sc nya install dulu lah.
 
 ## Features
 
-| RIDHO BOT       |                Feature           |
+| X-Play BOT       |                Feature           |
 | :-----------: | :--------------------------------: |
 |       ✅       | Sticker Creator                  |
 |       ✅       | Magernulis                       |
@@ -49,4 +49,4 @@ Sebelum lu jalanin sc nya install dulu lah.
 * [`termux-whatsapp-bot`](https://github.com/fdciabdul/termux-whatsapp-bot)
 
 ### Donate
-* DANA/PULSA  081289096745
+* OVO/PULSA : 0895421844942
